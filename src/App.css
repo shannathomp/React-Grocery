@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.grocery-img{
+  border: solid green 3px;
+  height: 200px;
+background-image: url(./Data/image/download.jpg);
+background-repeat: no-repeat;
+background-size:contain;
+background-position-x: right;
+}
+
+.title{
+  color: red;
+ text-align: center;
+}
